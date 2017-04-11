@@ -1,0 +1,14 @@
+---
+title: "Santander Product Recommendation"
+output: html_notebook
+---
+
+DataSet: https://www.kaggle.com/c/santander-product-recommendation/data
+
+This dataset is an excellent one to test all the skills learned in the course. Also with previous banking experience, this project will add value being in my portfolio.
+The client in this case is Santendar Bank which aims to develop a better product recommendation system.
+This will help in both revenue and customer satisfaction for the bank
+The data for this readily available as Kaggle dataset. The deliverables include code and R notebook presentation.
+
+The Twitter sentiment analysis is dropped since the data is already cleaned and hence will doesn’t involve text analytics.
+The Walmart forecasting idea is dropped owing to the course content and time constraint.
